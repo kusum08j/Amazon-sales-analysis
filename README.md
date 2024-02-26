@@ -3,14 +3,14 @@
 This project aims to analyze a dataset containing information about products, including product categories, pricing, ratings, and customer reviews. Through data exploration, visualization, and analysis, various insights are derived to understand product trends, customer sentiments, and potential predictive modeling tasks.
 
 # Table of Contents
-Data Cleaning
-Data Exploration
-Analysis and Insights
-Sentiment Analysis
-Data Integration
-Error Handling
-Code Optimization
-Conclusion
+# Data Cleaning
+# Data Exploration
+# Analysis and Insights
+# Sentiment Analysis
+# Data Integration
+# Error Handling
+# Code Optimization
+# Conclusion
 
 # Data Cleaning
 Handled missing values, removed duplicates, and ensured consistency in data types.
